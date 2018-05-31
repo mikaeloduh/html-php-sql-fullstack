@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+div.table-viewport {
+	border: 2px inset black; 
+}
+
+div.column-header {
+	padding: .05em 0.5em .1em 0.5em;
+	border-left: 1px outset black;
+	border-right: 1px outset black;
+	border-bottom: 1px outset black;
+}
+
+div.cell-common {
+	padding: .05em 0.5em .1em 0.5em;
+}
+
+div.row-alt {
+	background-color: #50A090;
+}

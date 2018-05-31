@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+#logout,
+#login {
+    float: right;
+    margin-right: 35px;
+    margin-top: 10px;
+}
+
+#logout {
+	border: 1px #5260e5 solid;
+	border-radius: 4px;
+	margin-bottom: 5px;
+	padding: 0px 5px 5px 2px;
+	box-shadow: -4px -4px 4px #5260e5 inset;
+}
+
+#admin-button {
+	margin-left: 10px;
+}
+
+#logout-button {
+	float: right;
+	margin-right: 2px;
+}
